@@ -1,0 +1,15 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"tour_trip"},
+{"type":"table","name":"trip","database":"tour_trip","data":
+[
+{"sno":"1","name":"Taskin Mohammad Mubassir","age":"26","gender":"Male","email":"taskin@gmail.com","phone":"01737778252","other":"This is my first php my admin message!","dt":"2024-05-31 22:36:07"},
+{"sno":"5","name":"Tanjim Mohammad Mubarrat","age":"23","gender":"Male","email":"tanjim@gmail.com","phone":"01701070000","other":"I want to visit Coxs Bazar.","dt":"2024-06-02 02:31:29"},
+{"sno":"16","name":"Hi","age":"20","gender":"Male","email":"hi@gmail.com","phone":"09876543210","other":"Hi! I am Hi.","dt":"2024-06-02 02:40:34"},
+{"sno":"21","name":"Mubassir","age":"0","gender":"","email":"mubassir@gmail.com","phone":"","other":"","dt":"2024-06-02 02:49:37"},
+{"sno":"22","name":"Niha","age":"21","gender":"Female","email":"niha@gmail.com","phone":"09876543210","other":"Yeah! I am also going!","dt":"2024-06-02 03:15:59"},
+{"sno":"23","name":"Adro","age":"24","gender":"Male","email":"adro@gmail.com","phone":"09876543210","other":"I am happy!","dt":"2024-06-02 19:47:28"},
+{"sno":"24","name":"Adro","age":"24","gender":"Male","email":"adro@gmail.com","phone":"09876543210","other":"I am happy!","dt":"2024-06-02 19:48:00"}
+]
+}
+]
